@@ -1,0 +1,6 @@
+@C__bot_HostAddress = http://localhost:5007
+
+GET {{C__bot_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
